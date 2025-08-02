@@ -8,7 +8,7 @@
 
 Motivated graduate with a Diploma in Information Technology in Management, currently working as an **IT Support Intern** and passionate about leveraging both technical and project management skills to create and support innovative IT solutions. I thrive in collaborative environments, always seeking growth and new challenges in the dynamic world of technology.
 
-- 📍 Pretoria, Gauteng, South Africa
+- 📍 Johannesburg, Gauteng, South Africa
 - 👨‍🎓 Diploma in IT Management, IIE Rosebank College (2022–2024)
 - 💻 IT Support Intern (2025–Present)
 - 🤖 Completed AI Bootcamp projects including:  
